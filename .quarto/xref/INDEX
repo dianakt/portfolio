@@ -1,0 +1,17 @@
+{
+  "about.qmd": {
+    "about.html": "cc8156be"
+  },
+  "index.qmd": {
+    "index.html": "f400cdc3"
+  },
+  "appendix A.qmd": {
+    "appendix-A.tex": "baaecdeb"
+  },
+  "contacts.qmd": {
+    "contacts.html": "37f70424"
+  },
+  "cv.qmd": {
+    "cv.html": "0ed3be13"
+  }
+}

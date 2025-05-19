@@ -1,0 +1,63 @@
+---
+title: "Appendix"
+format: pdf
+---
+
+1. LLM-Generated Outline
+
+# Outline
+
+# Introduction
+
+# Brief professional summary and career goals.
+
+# About Me
+
+# Personal background, MBA focus, and unique strengths.
+
+# Education
+
+University Canada West, MBA (expected July 2025)
+
+Relevant coursework and academic achievements.
+
+# Professional Experience
+
+Accounts Payable Professional, Quay Pacific Management (Feb 2025–Present)
+
+Key responsibilities and accomplishments.
+
+Leadership Philosophy
+
+Core values, decision-making approach, and cultural perspective.
+
+# Skills 
+Technical skills (e.g., Excel, Quarto) and soft skills (e.g., communication).
+# Certifications
+
+Certifications (e.g., CAPM, if applicable).
+
+# Projects & Highlights
+
+Notable MBA projects, case studies, or volunteer work.
+
+# Contact
+
+Email, LinkedIn, GitHub links.
+
+
+
+
+ Commentary on Revisions
+
+The LLM provided an organized professional structure which included all necessary components for an MBA student portfolio. I modified the original structure to match my personal story and my distinct career path.
+
+I changed the title of the "Introduction" section to Professional Snapshot to better represent my professional identity and emphasize my dual focus on finance and project management.
+
+I added a Leadership Philosophy section because I wanted to share how my multicultural heritage, together with my professional principles, shape my teamwork methods and decision-making approach.
+
+I merged Certifications with Skills since I currently hold one certification; the combined format makes the presentation more compact and streamlined.
+
+I enriched the Professional Experience section with detailed bullet points highlighting both my actions (e.g., improved invoice processing time by 20%) and acquired knowledge (e.g., learned ERP implementation basics). This connects my accounts payable background to core project management abilities.
+
+While the LLM’s sample text served as a useful starting point, I rewrote most sentences in my own voice to ensure authenticity, smooth flow, and alignment with my writing style.
